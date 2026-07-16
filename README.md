@@ -1,6 +1,6 @@
 ## Hi, I'm z23
 
-Network / infrastructure tooling for operators who share systems carefully.
+Random bits of network / infrastructure tooling.
 
 ### Projects
 
