@@ -1,6 +1,6 @@
 ## Hi, I'm z23
 
-Random bits of network / infrastructure tooling.
+Random bits of network / infrastructure tooling. I have no idea what I'm doing.
 
 ### Projects
 
