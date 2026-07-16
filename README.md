@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm z23
 
-<!--
-**z23/z23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network / infrastructure tooling for operators who share systems carefully.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[pdns-acme-proxy](https://github.com/z23/pdns-acme-proxy)** — scoped per-app API keys in front of PowerDNS so Caddy, Traefik/lego, and friends can share ACME DNS-01 without god-mode credentials
+- **[netbox-mcp-server](https://github.com/z23/netbox-mcp-server)** — NetBox MCP with opt-in write tools (read-only by default)
+- **[hyperglass](https://github.com/z23/hyperglass)** — hardened looking-glass fork (query validation, shared Redis rate limits, RCE fixes)
+- **[GlobalProtect-openconnect](https://github.com/z23/GlobalProtect-openconnect)** — fork with open-source **gpwidget** for waybar / DankMaterialShell
+- **[multi-provider-usage-widget](https://github.com/z23/multi-provider-usage-widget)** — TUI for Claude / Codex / SuperGrok subscription usage
+
+### Stack
+
+Go · Rust · Python · Nix · PowerDNS · NetBox · Linux networking
+
+### Elsewhere
+
+- GitHub: [z23](https://github.com/z23)
