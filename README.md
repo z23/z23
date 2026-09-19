@@ -13,7 +13,3 @@ Random bits of network / infrastructure tooling. I have no idea what I'm doing.
 ### Stack
 
 Go · Rust · Python · Nix · PowerDNS · NetBox · Linux networking
-
-### Elsewhere
-
-- GitHub: [z23](https://github.com/z23)
