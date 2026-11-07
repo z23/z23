@@ -6,6 +6,7 @@ Random bits of network / infrastructure tooling, plus the odd terminal tool. I h
 
 **Network / infra**
 
+- **[xenadmin-rs](https://github.com/z23/xenadmin-rs)** — standalone Linux XCP-ng management client with a Rune UI and Rust backend, connecting directly to XAPI
 - **[pdns-acme-proxy](https://github.com/z23/pdns-acme-proxy)** — scoped per-app API keys in front of PowerDNS so Caddy, Traefik/lego, and friends can share ACME DNS-01 without god-mode credentials
 - **[netbox-mcp-server](https://github.com/z23/netbox-mcp-server)** — NetBox MCP with opt-in write tools (read-only by default)
 - **[hyperglass](https://github.com/z23/hyperglass)** — hardened looking-glass fork (query validation, shared Redis rate limits, RCE fixes)
